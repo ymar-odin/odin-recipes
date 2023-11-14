@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(255, 227, 185);
+    font-family:Arial, Verdana, sans-serif;
+}
+
+.header {
+    font-size: 44px;
+    text-align: center;
+}
+
+.contents a:link {
+    color:black;
+}
+
+.contents a:visited {
+    color: rgb(78, 26, 26);
+}
+
+body p, ul, ol {
+    font-size: 12px;
+}
